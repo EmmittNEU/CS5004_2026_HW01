@@ -1,6 +1,6 @@
-Name:
+Name: Emmitt J Tucker
 
-Github Account name:
+Github Account name: EmmittNEU
 
 Link to Assignment on Github: (copy and paste the link to your assignment repo here)
 
